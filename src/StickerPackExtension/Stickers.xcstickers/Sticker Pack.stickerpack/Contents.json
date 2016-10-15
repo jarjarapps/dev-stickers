@@ -1,4 +1,54 @@
 {
+  "stickers" : [
+    {
+      "filename" : "regular-1.sticker"
+    },
+    {
+      "filename" : "regular-2.sticker"
+    },
+    {
+      "filename" : "regular-11.sticker"
+    },
+    {
+      "filename" : "regular-10.sticker"
+    },
+    {
+      "filename" : "regular-12.sticker"
+    },
+    {
+      "filename" : "regular-5.sticker"
+    },
+    {
+      "filename" : "regular-13.sticker"
+    },
+    {
+      "filename" : "regular-15.sticker"
+    },
+    {
+      "filename" : "regular-9.sticker"
+    },
+    {
+      "filename" : "regular-3.sticker"
+    },
+    {
+      "filename" : "regular-4.sticker"
+    },
+    {
+      "filename" : "regular-14.sticker"
+    },
+    {
+      "filename" : "regular-7.sticker"
+    },
+    {
+      "filename" : "regular-8.sticker"
+    },
+    {
+      "filename" : "regular.sticker"
+    },
+    {
+      "filename" : "regular-6.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
