@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:dev stickers.xcodeproj">
+      location = "self:/Users/gibasmaciej/Projects/dev-stickers/src/dev logo stickers.xcodeproj">
    </FileRef>
 </Workspace>

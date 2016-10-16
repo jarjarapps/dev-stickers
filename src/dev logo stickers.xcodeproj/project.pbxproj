@@ -37,7 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8652D53D1DA927C40061D288 /* dev stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dev stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8652D53D1DA927C40061D288 /* dev logo stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dev logo stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8652D5411DA927C40061D288 /* StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = StickerPackExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		8652D5451DA927C40061D288 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = StickerPackExtension/Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -54,7 +54,7 @@
 		8652D53E1DA927C40061D288 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8652D53D1DA927C40061D288 /* dev stickers.app */,
+				8652D53D1DA927C40061D288 /* dev logo stickers.app */,
 				8652D5411DA927C40061D288 /* StickerPackExtension.appex */,
 			);
 			name = Products;
@@ -63,9 +63,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8652D53C1DA927C40061D288 /* dev stickers */ = {
+		8652D53C1DA927C40061D288 /* dev logo stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8652D54E1DA927C40061D288 /* Build configuration list for PBXNativeTarget "dev stickers" */;
+			buildConfigurationList = 8652D54E1DA927C40061D288 /* Build configuration list for PBXNativeTarget "dev logo stickers" */;
 			buildPhases = (
 				8652D53B1DA927C40061D288 /* Resources */,
 				8652D54D1DA927C40061D288 /* Embed App Extensions */,
@@ -75,9 +75,9 @@
 			dependencies = (
 				8652D5441DA927C40061D288 /* PBXTargetDependency */,
 			);
-			name = "dev stickers";
+			name = "dev logo stickers";
 			productName = "dev stickers";
-			productReference = 8652D53D1DA927C40061D288 /* dev stickers.app */;
+			productReference = 8652D53D1DA927C40061D288 /* dev logo stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
 		8652D5401DA927C40061D288 /* StickerPackExtension */ = {
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8652D53A1DA927C40061D288 /* Build configuration list for PBXProject "dev stickers" */;
+			buildConfigurationList = 8652D53A1DA927C40061D288 /* Build configuration list for PBXProject "dev logo stickers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -128,7 +128,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8652D53C1DA927C40061D288 /* dev stickers */,
+				8652D53C1DA927C40061D288 /* dev logo stickers */,
 				8652D5401DA927C40061D288 /* StickerPackExtension */,
 			);
 		};
@@ -256,7 +256,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.logo.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.logo.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -281,7 +281,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = "dev stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers;
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.logo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -294,7 +294,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = "dev stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers;
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.logo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8652D53A1DA927C40061D288 /* Build configuration list for PBXProject "dev stickers" */ = {
+		8652D53A1DA927C40061D288 /* Build configuration list for PBXProject "dev logo stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8652D5481DA927C40061D288 /* Debug */,
@@ -321,7 +321,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8652D54E1DA927C40061D288 /* Build configuration list for PBXNativeTarget "dev stickers" */ = {
+		8652D54E1DA927C40061D288 /* Build configuration list for PBXNativeTarget "dev logo stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8652D54F1DA927C40061D288 /* Debug */,
