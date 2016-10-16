@@ -256,7 +256,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "jarjarapps.dev-stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "jarjarapps.dev-stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -281,7 +281,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = "dev stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "jarjarapps.dev-stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -294,7 +294,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = K4GRY7UP44;
 				INFOPLIST_FILE = "dev stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "jarjarapps.dev-stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = jarjarapps.devstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
